@@ -23,7 +23,7 @@ profile_image: ./assets/images/profile-image/L2Cert.JPG
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://docs.google.com/document/d/1Bte1TdwYXXDdft0xP6WM93NsWLx3iL7w_qfLfe9AqkA/edit?usp=drivesdk
+resume-url: ./assets/resume/Ashton Baker Resume 12.25.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
