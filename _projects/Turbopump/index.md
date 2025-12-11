@@ -25,7 +25,7 @@ Using Bernoulli's equation and the velocities expected at the exit of the impell
 {% include image-gallery.html images="ImpellerVoluteCrossSec.jpg" height="400" %}
 # Manufacturing and Assembly
 The majority of parts for the pump were 3D printed from PETG. Parts were produced iteratively to improve accuracy and surface finishes. Two bearings and two shaft seals were purchased. The only part to be machined at this point is the shaft. A mini lathe was purchased and places on the floor of my kitchen to produce the shaft. The shaft is aluminum and was polished up 1000 grit sand paper for smooth seal surface contact. Only two attempts were made to produce this part (it is a miracle I hit the toleramces on this lathes.) Two tapped holes were added on bottom with a small drill jig and a hand drill. Parts were assembled and the only redesign that occured was due to a manufacturer's print being mislabeled for bearing thickness.
-{% include image-gallery.html images="Lathe.jpg" height="400" %}
+{% include image-gallery.html images="Lathe.JPG" height="400" %}
 {% include image-gallery.html images="LatheGear.jpg" height="400" %}
 {% include image-gallery.html images="Shaft.jpg" height="400" %}
 # Results
